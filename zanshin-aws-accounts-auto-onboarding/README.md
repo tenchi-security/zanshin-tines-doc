@@ -3,7 +3,7 @@
 ### The goal of this story is to search for your AWS Accounts missing in the Zanshin and import them into Zanshin as scan targets pending.
 
 
-## Necessary Permissionss
+## Necessary Permissions
 
 * Zanshin: The API key needs to be owned by an admin of the organization.
 * AWS: An assume role with list.accounts only in the administration account.
